@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**shepherdscribe/shepherdscribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi forks! Welcome aboard my code station 🚀 </h2> 
 
-Here are some ideas to get you started:
+I am ShepherdScribe 😃. I am from Philippines and currently working at [DeepOffice Inc.](https://deepofficegroup.com) IT Department ☁. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I major in Computer Science at [University of the Philippines Visayas](https://www.upv.edu.ph/) 💻. 
+
+## 👯 Online
+
+## ⚡ Technologies
+
+- 🔗 Deep Server Administrator with ****
+- 🚪 
+- 💬 Programming with **PHP, Python, C++, C, Java, Python**
