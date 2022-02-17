@@ -10,7 +10,7 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 
 - 🌟 Website: [Shepherd Scribe](https://shepherdscribe.com/)
 - 🍀 Facebook: [Cyrus Shepherd Scribe](https://www.facebook.com/cyrus.shepherdscribe)
-- 🦅 TwitterL [Cyrustale](https://twitter.com/cyrustale)
+- 🦅 Twitter: [Cyrustale](https://twitter.com/cyrustale)
 
 ## <img height="40" src="https://user-images.githubusercontent.com/62448059/154443409-da559127-08bd-49a7-bbaf-873cbcae22b3.gif"/> Technologies
 
