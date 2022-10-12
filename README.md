@@ -19,4 +19,6 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 - ✨ Visual Novels with **Renpy, Monogatari**
 - 🍩 Programming with **PHP, Python, C++, C, Java, Python**
 - 🍭 Web CMS with **Wordpress, WooCoomerce, Bedrock**
-- 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery**
+- 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery, KnockoutJS**
+- 🍃 Macro Programming with **Hidemaru, Excel VBA**
+- 🐚 Shell scripting with **Bash**
