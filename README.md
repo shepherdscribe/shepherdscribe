@@ -14,11 +14,13 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 
 ## <img height="40" src="https://user-images.githubusercontent.com/62448059/154443409-da559127-08bd-49a7-bbaf-873cbcae22b3.gif"/> Technologies
 
-- 👑 Server Management with **Cloudways, AWS S3, PHP-FPM, CPanel**
+- 👑 Server Management with **Cloudways, AWS, GCP, PHP-FPM, CPanel**
 - 🌟 Deep Explorations with **OpenCV, Arduino**
 - ✨ Visual Novels with **Renpy, Monogatari**
 - 🍩 Programming with **PHP, Python, C++, C, Java, Python**
-- 🍭 Web CMS with **Wordpress, WooCoomerce, Bedrock**
-- 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery, KnockoutJS**
-- 🍃 Macro Programming with **Hidemaru, Excel VBA**
-- 🐚 Shell scripting with **Bash**
+- 🍥 Data Analysis with **Pynum, Pandas, Pyxl**
+- 🥮 E-commerce with **WooCoomerce, Bagisto, Magento**
+- 🍭 Web CMS with **Wordpress, Bedrock, Hexo**
+- 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery, KnockoutJS, ExpressJS**
+- 🍃 Macro Programming with **Hidemaru, Excel VBA, Google Appscript**
+- 🐚 Shell scripting with **Bash, YAML**
