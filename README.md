@@ -18,8 +18,8 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 - 👑 Server Management with **Cloudways, AWS, GCP, PHP-FPM, CPanel**
 - 🌟 Deep Explorations with **OpenCV, Arduino**
 - ✨ Visual Novels with **Renpy, Monogatari**
-- 🍩 Programming with **PHP, Python, C++, C, Java, Python**
-- 🍥 Data Analysis with **Pynum, Pandas, Pyxl**
+- 🍩 Programming with **PHP, Python, C++, C, Java, Javascript, PERL, Lisp**
+- 🍥 Data Analysis with **Pynum, Pandas, Pyxl, R**
 - 🥮 E-commerce with **WooCoomerce, Bagisto, Magento**
 - 🍭 Web CMS with **Wordpress, Bedrock, Hexo**
 - 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery, KnockoutJS, ExpressJS**
