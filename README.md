@@ -21,7 +21,7 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 - 🍩 Programming with **PHP, Python, C++, C, Java, Javascript, PERL, Lisp**
 - 🍇 UI Programming with **PyQT, Java Swing, ElectronJS, Tkinter**
 - 🍥 Data Analysis with **Pynum, Pandas, Pyxl, R**
-- 🥮 E-commerce with **WooCoomerce, Bagisto, Magento**
+- 🥮 E-commerce with **WooCoomerce, Bagisto, Magento, Shopify**
 - 🍭 Web CMS with **Wordpress, Bedrock, Hexo**
 - 🐉 Web Frameworks with **Laravel, Bootstrap, jQuery, KnockoutJS, ExpressJS**
 - 🍃 Macro Programming with **Hidemaru, Excel VBA, Google Appscript**
