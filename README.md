@@ -2,7 +2,7 @@
 
 <h2>Hi forks! Welcome aboard my code station 🚀 </h2> 
 
-I am ShepherdScribe 😃. I am from Philippines and currently working at [DeepOffice Inc.](https://deepofficegroup.com) IT Department ☁. 
+I am ShepherdScribe 😃. I am from Philippines. 
 
 I major in Computer Science at [University of the Philippines Visayas](https://www.upv.edu.ph/) 💻. 
 
