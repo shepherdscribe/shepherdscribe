@@ -14,16 +14,18 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 
 ## <img height="40" src="https://user-images.githubusercontent.com/62448059/154443409-da559127-08bd-49a7-bbaf-873cbcae22b3.gif"/> Technologies
 
-- 👑 Server Management with **Cloudways, AWS, GCP, PHP-FPM, CPanel**
-- 🌟 Deep Explorations with **OpenCV, Arduino**
-- ✨ Visual Novels with **Renpy, Monogatari**
 - 🍩 Programming with **PHP, Python, C++, C, Java, Javascript, Typescript, PERL, Lisp**
-- 🍇 UI Programming with **PyQT, Java Swing, ElectronJS, Tkinter**
-- 🍥 Data Analysis with **Pynum, Pandas, Pyxl, R**
-- 🥮 E-commerce with **WooCoomerce, Bagisto, Magento, Shopify**
-- 🍭 Web CMS with **Wordpress, Bedrock, Hexo**
 - 🐉 Web Frameworks with **Laravel, Bootstrap, Tailwind, Livewire, jQuery, KnockoutJS, ExpressJS, VueJS, ReactJS, NextJS, NuxtJS**
+- ⌛ Test Automations with **Cypress JS, PestPHP, PHPUnit, Selenium, Playwright**
+- 👑 Server Management with **Cloudways, AWS, GCP, PHP-FPM, CPanel**
+- 🍇 Desktop UI Programming with **PyQT, Java Swing, ElectronJS, Tkinter, NativePHP**
+- 🥮 E-commerce with **WooCoomerce, Bagisto, Magento, Shopify, Wix**
+- 🍭 Web CMS/CRM with **Wordpress, Bedrock, Hexo, Hubspot, Pipedrive**
+- 🍥 Data Analysis with **Python Libraries, R, PowerBI, Excel**
 - 🍃 Macro Programming with **Hidemaru, Excel VBA, Google Appscript**
+- 🌍 Web Automations with **Zapier, Wix, Make by Monday**
 - 🐚 Shell scripting with **Bash, YAML**
 - 🚀 AI Explorations using **Ollama, Streamlit**
-- 🗒 File Notations with **JSON, XML, YAML, MD, MDX**
+- 📒 File Notations with **JSON, XML, YAML, MD, MDX, ENV**
+- 🌟 Embedded Explorations with **OpenCV, Arduino/Gizduino**
+- ✨ Visual Novels with **Renpy, Monogatari**
