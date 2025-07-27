@@ -21,9 +21,9 @@ I major in Computer Science at [University of the Philippines Visayas](https://w
 - 🍇 Desktop UI Programming with **PyQT, Java Swing, ElectronJS, Tkinter, NativePHP**
 - 🥮 E-commerce with **WooCoomerce, Bagisto, Magento, Shopify, Wix**
 - 🍭 Web CMS/CRM with **Wordpress, Bedrock, Hexo, Hubspot, Pipedrive**
+- 🐦‍🔥 Web Automations with **Zapier, Wix, Make by Monday, Lindy, n8n** 
 - 🍥 Data Analysis with **Python Libraries, R, PowerBI, Excel**
 - 🍃 Macro Programming with **Hidemaru, Excel VBA, Google Appscript**
-- 🌍 Web Automations with **Zapier, Wix, Make by Monday**
 - 🐚 Shell scripting with **Bash, YAML**
 - 🚀 AI Explorations using **Ollama, Streamlit**
 - 📒 File Notations with **JSON, XML, YAML, MD, MDX, ENV**
